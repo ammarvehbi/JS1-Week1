@@ -1,4 +1,6 @@
 This is HackYourFuture Git class.
 
 
-Adding another lilne of text. 
+Adding another lilne of text.
+
+Another line 
